@@ -1,39 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://aitransformationinsights.com/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://aitransformationinsights.com/images/og-default.svg</image:loc>
+      <image:title>AI Transformation Insights</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://aitransformationinsights.com/articles/ai-beings-transforming-legal.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://aitransformationinsights.com/images/og-legal.svg</image:loc>
+      <image:title>How AI Beings Are Transforming Legal Practice in 2026</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://aitransformationinsights.com/articles/future-of-ai-coaching.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aitransformationinsights.com/images/og-coaching.svg</image:loc>
+      <image:title>The Future of AI Coaching</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://aitransformationinsights.com/articles/ai-voice-agents-healthcare.html</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aitransformationinsights.com/images/og-healthcare.svg</image:loc>
+      <image:title>AI Voice Agents in Healthcare</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://aitransformationinsights.com/articles/unblinded-formula-ai-design.html</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aitransformationinsights.com/images/og-unblinded.svg</image:loc>
+      <image:title>The Unblinded Formula of AI Design</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://aitransformationinsights.com/articles/death-of-generic-ai.html</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://aitransformationinsights.com/images/og-generic-ai.svg</image:loc>
+      <image:title>The Death of Generic AI</image:title>
+    </image:image>
   </url>
 </urlset>
